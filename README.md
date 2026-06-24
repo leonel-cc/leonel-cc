@@ -38,7 +38,7 @@ Next.js + NestJS + MercadoPago • Roles de usuarios • Testing con Jest • [V
 
 ## 📫 Contacto
 
-🔗 [LinkedIn](https://www.linkedin.com/in/leonelbehnkedev/) • 📧 [leonelbehnke@gmail.com](mailto:leonelbehnke@gmail.com) • 💼 [Portfolio](https://leonelbehnke.vercel.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/leonelbehnkedev/) • 📧 [leonelbehnke@gmail.com](mailto:leonelbehnke@gmail.com) • 💼 [Portfolio](https://leonelbehnke-portfolio.vercel.app/)
 
 <div align="center">
   <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Codewars" width="300">
